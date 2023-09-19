@@ -1,4 +1,4 @@
-# <p align="center">**Alita Battle Angel Ai ChatGPT + DallE + Whishper** (Version 1.0.0)
+# <p align="center">**Alita Battle Angel Ai ChatGPT + DallE** (Version 1.0.0)
 
 - <p align="center">An Ai which can response for your questions,doubts,chats and also generate Images.</p>
 
